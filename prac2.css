@@ -24,6 +24,11 @@ h2 {
     font-family: sans-serif;
 }
 
-pre {
-    font-family: monospace;
+h3 {
+    color: rgba(0, 0, 139, 0.8);
+    font-family: sans-serif;
+}
+
+pre.transparent-text {
+    color: rgba(0, 0, 0, 0.5);
 }

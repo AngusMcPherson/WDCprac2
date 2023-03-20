@@ -4,6 +4,14 @@ body {
     background-color: #DCF5F5;
 }
 
+.blue {
+    color: blue;
+}
+
+.fancy{
+    font-family: cursive;
+}
+
 #content {
     background-color: white;
 }

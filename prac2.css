@@ -4,6 +4,30 @@ body {
     background-color: #DCF5F5;
 }
 
+.red-border {
+    border-style: solid;
+    border-color: red;
+}
+
+.topRounded{
+    border-radius: 8px 8px 0px 0px;
+    border-style: solid solid none solid;
+}
+
+.bottomRounded{
+    border-radius: 0px 0px 8px 8px;
+}
+
+.blue-border {
+    border-style: solid;
+    border-color: blue;
+}
+
+.red-outline {
+    outline-style: solid;
+    outline-color: red;
+}
+
 .blue {
     color: blue;
 }
@@ -13,7 +37,14 @@ body {
 }
 
 #content {
+    border-color: darkgrey;
+    border-width: 1px;
+    border-radius: 8px;
     background-color: white;
+}
+
+hr {
+    border-color: #CFDFE4;
 }
 
 h1 {

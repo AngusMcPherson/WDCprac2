@@ -36,6 +36,31 @@ body {
     font-family: cursive;
 }
 
+.outer {
+    background-color: blue;
+    border-color: red;
+    border-style: solid;
+}
+
+.inner {
+    background-color: yellow;
+    border-color: red;
+    border-style: solid;
+    text-align: right;
+}
+
+.inner1{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 20px;
+    margin-left: 20px;
+    padding: 12px;
+}
+
+.outer2{
+    margin-top: 20px;
+}
+
 #content {
     border-color: darkgrey;
     border-width: 1px;

@@ -65,9 +65,10 @@ body {
     margin-top: 20px;
 }
 .inner2{
+    box-sizing: border-box;
     padding: 12px;
-    height: 398px;
-    width: 398px;
+    height: 400px;
+    width: 400px;
     margin: 0 auto;
 }
 
